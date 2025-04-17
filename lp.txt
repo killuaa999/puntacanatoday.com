@@ -11,6 +11,7 @@
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="lI1uousXeQOl5S3O_WJzmUvSjBwmHdqZwJ_eiNAPORY" />
     <base href="https://puntacanatoday.com/">
     <meta charset="utf-8" />
     <title>KOITOTO || The Most Popular Online Game Site in Indonesia</title>
